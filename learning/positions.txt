@@ -1,0 +1,8 @@
+0 - normal
+1 - Iron
+2 - Teia
+3 - Pedra
+4 - Indicando
+5 - Tesoura
+6 - Papel
+
